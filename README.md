@@ -1,6 +1,5 @@
-# TweetyNext---FlaskAPI
-Flask API - Keyword Extraction
-
+# FlaskAPI
+Flask API -
 
 //Run
 
